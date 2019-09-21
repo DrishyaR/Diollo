@@ -1,5 +1,5 @@
-### Diollo 
-## An all-in-one online shopping website
+# Diollo 
+### An all-in-one online shopping website
 
 ## Why Diollo?
 
