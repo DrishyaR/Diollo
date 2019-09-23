@@ -9,12 +9,12 @@ Diollo is designed to be an all-in-one website wherein, multiple options for buy
 
 In order to run this website locally, install npm using the command line :
 
-### sudo apt-get install npm
+#### sudo apt-get install npm
 
 Then move to the repository folder and enter the command,
 
-### npm start
+#### npm start
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+THis starts the server and runs the app in the development mode.
+Following the command, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
