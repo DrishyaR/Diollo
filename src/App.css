@@ -12,6 +12,21 @@ body {
     color: var(--black) !important;
 }
 
+.login-bgcolor {
+  background-color: var(--yellow);
+}
+
+.login-form {
+  margin: auto auto auto 40%; 
+  padding: 15px; 
+  height: 235px;
+  width: 300px;
+  position: relative;
+  border: transparent;
+  border-radius: 1em; 
+  background-color: white;
+}
+
 .text-title {
     font-family: 'Permanent Marker', cursive ;
     letter-spacing: 0.3rem;
