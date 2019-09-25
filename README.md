@@ -5,6 +5,9 @@
 
 Diollo is designed to be an all-in-one website wherein, multiple options for buying, selling and renting things are provided. This website is especially relevant for hostel students, as they can use it to lend/sell their possesions to other students.
 
+## Techologies Used
+This website is created using React Libraries for the front-end, combined with bootstrap and is designed to use Django framework for the backend. 
+
 ## How to Set-up
 
 In order to run this website locally, install npm using the command line :
