@@ -2,7 +2,7 @@
 ### An all-in-one online shopping website
 
 ## Why Diollo?
-Diollo is designed to be an all-in-one website wherein, multiple options for buying, selling and renting things are provided. This website is especially relevant for hostel students, as they can use it to lend/sell their possesions to other students.
+Diollo is desgned to be an all-in-one website wherein, multiple options for buying, selling and renting things are provided. This website is especialy relevant for hostel students, as they can use it to lend/sell their possesions to other students.
 This website will include the features like adding to cart, selling and renting with the additional option of renting your possesions for a period of time. 
 
 ## Techology Stack
